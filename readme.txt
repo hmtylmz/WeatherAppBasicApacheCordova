@@ -1,0 +1,1 @@
+Basic weather app with Apache Cordova, Jquery and Ionic.

@@ -1,0 +1,1083 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-KVLJQ94</Machine>
+    <WindowsUser>hmT</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>io.cordova.myapp482ad2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E144B758BAE2579198091A245E175919142C8848611A1EBF11279732A6F6C9BB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.myapp482ad2_1.0.0.0_x64__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.myapp482ad2_h35559jr9hy9m!io.cordova.myapp482ad2</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.myapp482ad2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\build\windows\debug\x64\win8.1\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-18T14:00:21.174</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-18T14:00:17.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-18T14:00:17.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-18T14:00:17.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-18T14:00:17.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2016-03-18T14:00:17.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-18T14:00:17.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2016-03-18T14:00:17.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-18T14:00:17.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-18T14:00:17.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\action-black.png">
+      <PackagePath>www\css\images\icons-png\action-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\action-white.png">
+      <PackagePath>www\css\images\icons-png\action-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\alert-black.png">
+      <PackagePath>www\css\images\icons-png\alert-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\alert-white.png">
+      <PackagePath>www\css\images\icons-png\alert-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-d-black.png">
+      <PackagePath>www\css\images\icons-png\arrow-d-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-d-l-black.png">
+      <PackagePath>www\css\images\icons-png\arrow-d-l-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-d-l-white.png">
+      <PackagePath>www\css\images\icons-png\arrow-d-l-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-d-r-black.png">
+      <PackagePath>www\css\images\icons-png\arrow-d-r-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-d-r-white.png">
+      <PackagePath>www\css\images\icons-png\arrow-d-r-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-d-white.png">
+      <PackagePath>www\css\images\icons-png\arrow-d-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-l-black.png">
+      <PackagePath>www\css\images\icons-png\arrow-l-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-l-white.png">
+      <PackagePath>www\css\images\icons-png\arrow-l-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-r-black.png">
+      <PackagePath>www\css\images\icons-png\arrow-r-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-r-white.png">
+      <PackagePath>www\css\images\icons-png\arrow-r-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-u-black.png">
+      <PackagePath>www\css\images\icons-png\arrow-u-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-u-l-black.png">
+      <PackagePath>www\css\images\icons-png\arrow-u-l-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-u-l-white.png">
+      <PackagePath>www\css\images\icons-png\arrow-u-l-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-u-r-black.png">
+      <PackagePath>www\css\images\icons-png\arrow-u-r-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-u-r-white.png">
+      <PackagePath>www\css\images\icons-png\arrow-u-r-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\arrow-u-white.png">
+      <PackagePath>www\css\images\icons-png\arrow-u-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\audio-black.png">
+      <PackagePath>www\css\images\icons-png\audio-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\audio-white.png">
+      <PackagePath>www\css\images\icons-png\audio-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\back-black.png">
+      <PackagePath>www\css\images\icons-png\back-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\back-white.png">
+      <PackagePath>www\css\images\icons-png\back-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\bars-black.png">
+      <PackagePath>www\css\images\icons-png\bars-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\bars-white.png">
+      <PackagePath>www\css\images\icons-png\bars-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\bullets-black.png">
+      <PackagePath>www\css\images\icons-png\bullets-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\bullets-white.png">
+      <PackagePath>www\css\images\icons-png\bullets-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\calendar-black.png">
+      <PackagePath>www\css\images\icons-png\calendar-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\calendar-white.png">
+      <PackagePath>www\css\images\icons-png\calendar-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\camera-black.png">
+      <PackagePath>www\css\images\icons-png\camera-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\camera-white.png">
+      <PackagePath>www\css\images\icons-png\camera-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\carat-d-black.png">
+      <PackagePath>www\css\images\icons-png\carat-d-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\carat-d-white.png">
+      <PackagePath>www\css\images\icons-png\carat-d-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\carat-l-black.png">
+      <PackagePath>www\css\images\icons-png\carat-l-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\carat-l-white.png">
+      <PackagePath>www\css\images\icons-png\carat-l-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\carat-r-black.png">
+      <PackagePath>www\css\images\icons-png\carat-r-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\carat-r-white.png">
+      <PackagePath>www\css\images\icons-png\carat-r-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\carat-u-black.png">
+      <PackagePath>www\css\images\icons-png\carat-u-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\carat-u-white.png">
+      <PackagePath>www\css\images\icons-png\carat-u-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\check-black.png">
+      <PackagePath>www\css\images\icons-png\check-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\check-white.png">
+      <PackagePath>www\css\images\icons-png\check-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\clock-black.png">
+      <PackagePath>www\css\images\icons-png\clock-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\clock-white.png">
+      <PackagePath>www\css\images\icons-png\clock-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\cloud-black.png">
+      <PackagePath>www\css\images\icons-png\cloud-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\cloud-white.png">
+      <PackagePath>www\css\images\icons-png\cloud-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\comment-black.png">
+      <PackagePath>www\css\images\icons-png\comment-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\comment-white.png">
+      <PackagePath>www\css\images\icons-png\comment-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\delete-black.png">
+      <PackagePath>www\css\images\icons-png\delete-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\delete-white.png">
+      <PackagePath>www\css\images\icons-png\delete-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\edit-black.png">
+      <PackagePath>www\css\images\icons-png\edit-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\edit-white.png">
+      <PackagePath>www\css\images\icons-png\edit-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\eye-black.png">
+      <PackagePath>www\css\images\icons-png\eye-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\eye-white.png">
+      <PackagePath>www\css\images\icons-png\eye-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\forbidden-black.png">
+      <PackagePath>www\css\images\icons-png\forbidden-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\forbidden-white.png">
+      <PackagePath>www\css\images\icons-png\forbidden-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\forward-black.png">
+      <PackagePath>www\css\images\icons-png\forward-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\forward-white.png">
+      <PackagePath>www\css\images\icons-png\forward-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\gear-black.png">
+      <PackagePath>www\css\images\icons-png\gear-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\gear-white.png">
+      <PackagePath>www\css\images\icons-png\gear-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\grid-black.png">
+      <PackagePath>www\css\images\icons-png\grid-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\grid-white.png">
+      <PackagePath>www\css\images\icons-png\grid-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\heart-black.png">
+      <PackagePath>www\css\images\icons-png\heart-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\heart-white.png">
+      <PackagePath>www\css\images\icons-png\heart-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\home-black.png">
+      <PackagePath>www\css\images\icons-png\home-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\home-white.png">
+      <PackagePath>www\css\images\icons-png\home-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\info-black.png">
+      <PackagePath>www\css\images\icons-png\info-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\info-white.png">
+      <PackagePath>www\css\images\icons-png\info-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\location-black.png">
+      <PackagePath>www\css\images\icons-png\location-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\location-white.png">
+      <PackagePath>www\css\images\icons-png\location-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\lock-black.png">
+      <PackagePath>www\css\images\icons-png\lock-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\lock-white.png">
+      <PackagePath>www\css\images\icons-png\lock-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\mail-black.png">
+      <PackagePath>www\css\images\icons-png\mail-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\mail-white.png">
+      <PackagePath>www\css\images\icons-png\mail-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\minus-black.png">
+      <PackagePath>www\css\images\icons-png\minus-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\minus-white.png">
+      <PackagePath>www\css\images\icons-png\minus-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\navigation-black.png">
+      <PackagePath>www\css\images\icons-png\navigation-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\navigation-white.png">
+      <PackagePath>www\css\images\icons-png\navigation-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\phone-black.png">
+      <PackagePath>www\css\images\icons-png\phone-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\phone-white.png">
+      <PackagePath>www\css\images\icons-png\phone-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\plus-black.png">
+      <PackagePath>www\css\images\icons-png\plus-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\plus-white.png">
+      <PackagePath>www\css\images\icons-png\plus-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\power-black.png">
+      <PackagePath>www\css\images\icons-png\power-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\power-white.png">
+      <PackagePath>www\css\images\icons-png\power-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\recycle-black.png">
+      <PackagePath>www\css\images\icons-png\recycle-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\recycle-white.png">
+      <PackagePath>www\css\images\icons-png\recycle-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\refresh-black.png">
+      <PackagePath>www\css\images\icons-png\refresh-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\refresh-white.png">
+      <PackagePath>www\css\images\icons-png\refresh-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\search-black.png">
+      <PackagePath>www\css\images\icons-png\search-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\search-white.png">
+      <PackagePath>www\css\images\icons-png\search-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\shop-black.png">
+      <PackagePath>www\css\images\icons-png\shop-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\shop-white.png">
+      <PackagePath>www\css\images\icons-png\shop-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\star-black.png">
+      <PackagePath>www\css\images\icons-png\star-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\star-white.png">
+      <PackagePath>www\css\images\icons-png\star-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\tag-black.png">
+      <PackagePath>www\css\images\icons-png\tag-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\tag-white.png">
+      <PackagePath>www\css\images\icons-png\tag-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\user-black.png">
+      <PackagePath>www\css\images\icons-png\user-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\user-white.png">
+      <PackagePath>www\css\images\icons-png\user-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\video-black.png">
+      <PackagePath>www\css\images\icons-png\video-black.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-png\video-white.png">
+      <PackagePath>www\css\images\icons-png\video-white.png</PackagePath>
+      <Modified>2016-03-18T14:00:15.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\images\cordova.png">
+      <PackagePath>www\images\cordova.png</PackagePath>
+      <Modified>2016-03-18T14:00:17.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-03-18T14:00:18.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-03-18T14:00:18.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-03-18T14:00:17.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-03-18T14:00:18.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\plugins\cordova-plugin-geolocation\src\windows\GeolocationProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\src\windows\GeolocationProxy.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\plugins\cordova-plugin-geolocation\www\Coordinates.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\Coordinates.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\plugins\cordova-plugin-geolocation\www\geolocation.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\geolocation.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\plugins\cordova-plugin-geolocation\www\Position.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\Position.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\plugins\cordova-plugin-geolocation\www\PositionError.js">
+      <PackagePath>www\plugins\cordova-plugin-geolocation\www\PositionError.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2016-03-18T14:00:17.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\jquery-1.8.0.intellisense.js">
+      <PackagePath>www\scripts\jquery-1.8.0.intellisense.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\jquery-1.8.0.js">
+      <PackagePath>www\scripts\jquery-1.8.0.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\jquery-1.8.0.min.js">
+      <PackagePath>www\scripts\jquery-1.8.0.min.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\jquery-2.2.1.js">
+      <PackagePath>www\scripts\jquery-2.2.1.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\jquery-2.2.1.min.js">
+      <PackagePath>www\scripts\jquery-2.2.1.min.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\jquery.mobile-1.4.5.js">
+      <PackagePath>www\scripts\jquery.mobile-1.4.5.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\jquery.mobile-1.4.5.min.js">
+      <PackagePath>www\scripts\jquery.mobile-1.4.5.min.js</PackagePath>
+      <Modified>2016-03-18T14:00:19.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2016-03-18T14:00:17.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\weather.js">
+      <PackagePath>www\scripts\weather.js</PackagePath>
+      <Modified>2016-03-18T14:00:17.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2016-03-18T14:00:17.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-03-18T14:00:17.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\ajax-loader.gif">
+      <PackagePath>www\css\images\ajax-loader.gif</PackagePath>
+      <Modified>2016-03-18T14:00:15.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\action-black.svg">
+      <PackagePath>www\css\images\icons-svg\action-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\action-white.svg">
+      <PackagePath>www\css\images\icons-svg\action-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\alert-black.svg">
+      <PackagePath>www\css\images\icons-svg\alert-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\alert-white.svg">
+      <PackagePath>www\css\images\icons-svg\alert-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-d-black.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-d-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-d-l-black.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-d-l-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-d-l-white.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-d-l-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-d-r-black.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-d-r-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-d-r-white.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-d-r-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-d-white.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-d-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-l-black.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-l-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-l-white.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-l-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-r-black.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-r-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-r-white.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-r-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-u-black.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-u-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-u-l-black.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-u-l-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-u-l-white.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-u-l-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-u-r-black.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-u-r-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-u-r-white.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-u-r-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\arrow-u-white.svg">
+      <PackagePath>www\css\images\icons-svg\arrow-u-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\audio-black.svg">
+      <PackagePath>www\css\images\icons-svg\audio-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\audio-white.svg">
+      <PackagePath>www\css\images\icons-svg\audio-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\back-black.svg">
+      <PackagePath>www\css\images\icons-svg\back-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\back-white.svg">
+      <PackagePath>www\css\images\icons-svg\back-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\bars-black.svg">
+      <PackagePath>www\css\images\icons-svg\bars-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\bars-white.svg">
+      <PackagePath>www\css\images\icons-svg\bars-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\bullets-black.svg">
+      <PackagePath>www\css\images\icons-svg\bullets-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\bullets-white.svg">
+      <PackagePath>www\css\images\icons-svg\bullets-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\calendar-black.svg">
+      <PackagePath>www\css\images\icons-svg\calendar-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\calendar-white.svg">
+      <PackagePath>www\css\images\icons-svg\calendar-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\camera-black.svg">
+      <PackagePath>www\css\images\icons-svg\camera-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\camera-white.svg">
+      <PackagePath>www\css\images\icons-svg\camera-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\carat-d-black.svg">
+      <PackagePath>www\css\images\icons-svg\carat-d-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\carat-d-white.svg">
+      <PackagePath>www\css\images\icons-svg\carat-d-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\carat-l-black.svg">
+      <PackagePath>www\css\images\icons-svg\carat-l-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\carat-l-white.svg">
+      <PackagePath>www\css\images\icons-svg\carat-l-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\carat-r-black.svg">
+      <PackagePath>www\css\images\icons-svg\carat-r-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\carat-r-white.svg">
+      <PackagePath>www\css\images\icons-svg\carat-r-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\carat-u-black.svg">
+      <PackagePath>www\css\images\icons-svg\carat-u-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.939</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\carat-u-white.svg">
+      <PackagePath>www\css\images\icons-svg\carat-u-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\check-black.svg">
+      <PackagePath>www\css\images\icons-svg\check-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\check-white.svg">
+      <PackagePath>www\css\images\icons-svg\check-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\clock-black.svg">
+      <PackagePath>www\css\images\icons-svg\clock-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\clock-white.svg">
+      <PackagePath>www\css\images\icons-svg\clock-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\cloud-black.svg">
+      <PackagePath>www\css\images\icons-svg\cloud-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\cloud-white.svg">
+      <PackagePath>www\css\images\icons-svg\cloud-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\comment-black.svg">
+      <PackagePath>www\css\images\icons-svg\comment-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\comment-white.svg">
+      <PackagePath>www\css\images\icons-svg\comment-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\delete-black.svg">
+      <PackagePath>www\css\images\icons-svg\delete-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\delete-white.svg">
+      <PackagePath>www\css\images\icons-svg\delete-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\edit-black.svg">
+      <PackagePath>www\css\images\icons-svg\edit-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\edit-white.svg">
+      <PackagePath>www\css\images\icons-svg\edit-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\eye-black.svg">
+      <PackagePath>www\css\images\icons-svg\eye-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\eye-white.svg">
+      <PackagePath>www\css\images\icons-svg\eye-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\forbidden-black.svg">
+      <PackagePath>www\css\images\icons-svg\forbidden-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\forbidden-white.svg">
+      <PackagePath>www\css\images\icons-svg\forbidden-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:15.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\forward-black.svg">
+      <PackagePath>www\css\images\icons-svg\forward-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\forward-white.svg">
+      <PackagePath>www\css\images\icons-svg\forward-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\gear-black.svg">
+      <PackagePath>www\css\images\icons-svg\gear-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\gear-white.svg">
+      <PackagePath>www\css\images\icons-svg\gear-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\grid-black.svg">
+      <PackagePath>www\css\images\icons-svg\grid-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\grid-white.svg">
+      <PackagePath>www\css\images\icons-svg\grid-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\heart-black.svg">
+      <PackagePath>www\css\images\icons-svg\heart-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\heart-white.svg">
+      <PackagePath>www\css\images\icons-svg\heart-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\home-black.svg">
+      <PackagePath>www\css\images\icons-svg\home-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\home-white.svg">
+      <PackagePath>www\css\images\icons-svg\home-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\info-black.svg">
+      <PackagePath>www\css\images\icons-svg\info-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\info-white.svg">
+      <PackagePath>www\css\images\icons-svg\info-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\location-black.svg">
+      <PackagePath>www\css\images\icons-svg\location-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\location-white.svg">
+      <PackagePath>www\css\images\icons-svg\location-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\lock-black.svg">
+      <PackagePath>www\css\images\icons-svg\lock-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\lock-white.svg">
+      <PackagePath>www\css\images\icons-svg\lock-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\mail-black.svg">
+      <PackagePath>www\css\images\icons-svg\mail-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\mail-white.svg">
+      <PackagePath>www\css\images\icons-svg\mail-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\minus-black.svg">
+      <PackagePath>www\css\images\icons-svg\minus-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\minus-white.svg">
+      <PackagePath>www\css\images\icons-svg\minus-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\navigation-black.svg">
+      <PackagePath>www\css\images\icons-svg\navigation-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\navigation-white.svg">
+      <PackagePath>www\css\images\icons-svg\navigation-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\phone-black.svg">
+      <PackagePath>www\css\images\icons-svg\phone-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\phone-white.svg">
+      <PackagePath>www\css\images\icons-svg\phone-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\plus-black.svg">
+      <PackagePath>www\css\images\icons-svg\plus-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\plus-white.svg">
+      <PackagePath>www\css\images\icons-svg\plus-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\power-black.svg">
+      <PackagePath>www\css\images\icons-svg\power-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\power-white.svg">
+      <PackagePath>www\css\images\icons-svg\power-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\recycle-black.svg">
+      <PackagePath>www\css\images\icons-svg\recycle-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\recycle-white.svg">
+      <PackagePath>www\css\images\icons-svg\recycle-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\refresh-black.svg">
+      <PackagePath>www\css\images\icons-svg\refresh-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\refresh-white.svg">
+      <PackagePath>www\css\images\icons-svg\refresh-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\search-black.svg">
+      <PackagePath>www\css\images\icons-svg\search-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\search-white.svg">
+      <PackagePath>www\css\images\icons-svg\search-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\shop-black.svg">
+      <PackagePath>www\css\images\icons-svg\shop-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\shop-white.svg">
+      <PackagePath>www\css\images\icons-svg\shop-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\star-black.svg">
+      <PackagePath>www\css\images\icons-svg\star-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\star-white.svg">
+      <PackagePath>www\css\images\icons-svg\star-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\tag-black.svg">
+      <PackagePath>www\css\images\icons-svg\tag-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\tag-white.svg">
+      <PackagePath>www\css\images\icons-svg\tag-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\user-black.svg">
+      <PackagePath>www\css\images\icons-svg\user-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\user-white.svg">
+      <PackagePath>www\css\images\icons-svg\user-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\video-black.svg">
+      <PackagePath>www\css\images\icons-svg\video-black.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\images\icons-svg\video-white.svg">
+      <PackagePath>www\css\images\icons-svg\video-white.svg</PackagePath>
+      <Modified>2016-03-18T14:00:16.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\fonts\ionicons.svg">
+      <PackagePath>www\fonts\ionicons.svg</PackagePath>
+      <Modified>2016-03-18T14:00:17.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\ionic.css">
+      <PackagePath>www\css\ionic.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\ionic.min.css">
+      <PackagePath>www\css\ionic.min.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile-1.4.5.css">
+      <PackagePath>www\css\jquery.mobile-1.4.5.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile-1.4.5.min.css">
+      <PackagePath>www\css\jquery.mobile-1.4.5.min.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.external-png-1.4.5.css">
+      <PackagePath>www\css\jquery.mobile.external-png-1.4.5.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.external-png-1.4.5.min.css">
+      <PackagePath>www\css\jquery.mobile.external-png-1.4.5.min.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.icons-1.4.5.css">
+      <PackagePath>www\css\jquery.mobile.icons-1.4.5.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.icons-1.4.5.min.css">
+      <PackagePath>www\css\jquery.mobile.icons-1.4.5.min.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.inline-png-1.4.5.css">
+      <PackagePath>www\css\jquery.mobile.inline-png-1.4.5.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.inline-png-1.4.5.min.css">
+      <PackagePath>www\css\jquery.mobile.inline-png-1.4.5.min.css</PackagePath>
+      <Modified>2016-03-18T14:00:18.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.inline-svg-1.4.5.css">
+      <PackagePath>www\css\jquery.mobile.inline-svg-1.4.5.css</PackagePath>
+      <Modified>2016-03-18T14:00:19.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.inline-svg-1.4.5.min.css">
+      <PackagePath>www\css\jquery.mobile.inline-svg-1.4.5.min.css</PackagePath>
+      <Modified>2016-03-18T14:00:19.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.structure-1.4.5.css">
+      <PackagePath>www\css\jquery.mobile.structure-1.4.5.css</PackagePath>
+      <Modified>2016-03-18T14:00:19.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.structure-1.4.5.min.css">
+      <PackagePath>www\css\jquery.mobile.structure-1.4.5.min.css</PackagePath>
+      <Modified>2016-03-18T14:00:19.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.theme-1.4.5.css">
+      <PackagePath>www\css\jquery.mobile.theme-1.4.5.css</PackagePath>
+      <Modified>2016-03-18T14:00:19.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\css\jquery.mobile.theme-1.4.5.min.css">
+      <PackagePath>www\css\jquery.mobile.theme-1.4.5.min.css</PackagePath>
+      <Modified>2016-03-18T14:00:19.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\fonts\ionicons.eot">
+      <PackagePath>www\fonts\ionicons.eot</PackagePath>
+      <Modified>2016-03-18T14:00:17.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\fonts\ionicons.ttf">
+      <PackagePath>www\fonts\ionicons.ttf</PackagePath>
+      <Modified>2016-03-18T14:00:17.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\fonts\ionicons.woff">
+      <PackagePath>www\fonts\ionicons.woff</PackagePath>
+      <Modified>2016-03-18T14:00:17.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-03-18T14:00:19.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\page.html">
+      <PackagePath>www\page.html</PackagePath>
+      <Modified>2016-03-18T14:00:17.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\jquery-2.2.1.min.map">
+      <PackagePath>www\scripts\jquery-2.2.1.min.map</PackagePath>
+      <Modified>2016-03-18T14:00:17.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\www\scripts\jquery.mobile-1.4.5.min.map">
+      <PackagePath>www\scripts\jquery.mobile-1.4.5.min.map</PackagePath>
+      <Modified>2016-03-18T14:00:17.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-03-18T14:00:15.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\hmT\Documents\Visual Studio 2015\Projects\ACHelloWorld\platforms\windows\build\windows\debug\x64\win8.1\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-03-18T14:00:21.013</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
